@@ -152,7 +152,6 @@ _Implementation Notes_
 
 <%= headers status: 201 %>
 <pre class="terminal">
-Content-Length: 0
 Content-Type: text/html
 Date: Fri, 14 Feb 2020 22:05:40 GMT
 Etag: W/"12793861"
